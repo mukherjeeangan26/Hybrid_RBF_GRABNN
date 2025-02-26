@@ -2,9 +2,9 @@
 
 Python (Jupyter) Notebooks for developing model architectures and novel training algorithms for standalone RBF networks and hybrid GRAB-NN structures for modeling nonlinear dynamic noisy chemical processes
 
-Author: Angan Mukherjee (am0339@mix.wvu.edu)
+Author: Angan Mukherjee (amukherjee43@wisc.edu)
 
-Last Page Update: Jun 28, 2024
+Last Page Update: Feb 26, 2025
 
 # Announcement
 
