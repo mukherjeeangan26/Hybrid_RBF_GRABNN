@@ -15,7 +15,7 @@ We are very welcome to your contribution. Please feel free to reach out to us wi
 This public repository contains Python (Jupyter) notebooks for developing different architectures and corresponding training algorithms for standalone constrained and unconstrained RBF as well as hybrid GRAB-NN structures for nonlinear 
 chemical systems operating under uncertainties. The corresponding publication for this work is currently under review:
 
-**Mukherjee, A.**, Gupta, D. & Bhattacharyya, D, "*Hybrid Gaussian Radial Basis Neural Networks: Development, Training, and Applications to Modeling Nonlinear Dynamic Noisy Chemical Processes*", 
+**Mukherjee, A.**, Gupta, D. & Bhattacharyya, D, "*Mass-Constrained Hybrid Gaussian Radial Basis Neural Networks: Development, Training, and Applications to Modeling Nonlinear Dynamic Noisy Chemical Processes*", 
 Computers & Chemical Engineering (In Press)
 
 These codes will be updated in subsequent versions to enhance robustness of the proposed algorithms and user friendliness.
