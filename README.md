@@ -16,7 +16,9 @@ This public repository contains Python (Jupyter) notebooks for developing differ
 chemical systems operating under uncertainties. The corresponding publication for this work is currently under review:
 
 **Mukherjee, A.**, Gupta, D. & Bhattacharyya, D, "*Mass-Constrained Hybrid Gaussian Radial Basis Neural Networks: Development, Training, and Applications to Modeling Nonlinear Dynamic Noisy Chemical Processes*", 
-Computers & Chemical Engineering, 109080, 2025. DOI: https://doi.org/10.1016/j.compchemeng.2025.109080
+Computers & Chemical Engineering, 109080, 2025. 
+
+Avaiable online at: https://doi.org/10.1016/j.compchemeng.2025.109080
 
 These codes will be updated in subsequent versions to enhance robustness of the proposed algorithms and user friendliness.
 
